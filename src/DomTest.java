@@ -10,4 +10,10 @@ public class DomTest {
 			System.out.println(s);
 		}
 	}
+	//
+	public string getTips(){
+		return "";
+	}
+	
 }
+
